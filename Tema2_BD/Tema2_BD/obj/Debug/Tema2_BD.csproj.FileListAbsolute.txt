@@ -1,2 +1,15 @@
-D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\Tema2_BD\bin\Debug\Tema2_BD.exe.config
 D:\Cursuri\Anul 3\Adm Baza Date\Tema2\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\Tema2_BD\bin\Debug\Tema2_BD.exe.config
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\Tema2_BD\bin\Debug\Tema2_BD.exe.config
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\Tema2_BD\obj\Debug\Tema2_BD.csprojResolveAssemblyReference.cache
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\Tema2_BD\bin\Debug\Tema2_BD.exe
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\Tema2_BD\bin\Debug\Tema2_BD.pdb
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\Tema2_BD\bin\Debug\BussinessLayer.dll
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\Tema2_BD\bin\Debug\EntityFramework.dll
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\Tema2_BD\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\Tema2_BD\bin\Debug\BussinessLayer.pdb
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\Tema2_BD\bin\Debug\EntityFramework.xml
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\Tema2_BD\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\Tema2_BD\obj\Debug\Tema2_BD.exe
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\Tema2_BD\obj\Debug\Tema2_BD.pdb
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\Tema2_BD\bin\Debug\DataLayerB.dll
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\Tema2_BD\bin\Debug\DataLayerB.pdb

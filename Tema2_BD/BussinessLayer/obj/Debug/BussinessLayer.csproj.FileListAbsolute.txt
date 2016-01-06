@@ -1,0 +1,4 @@
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\BussinessLayer\bin\Debug\BussinessLayer.dll
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\BussinessLayer\bin\Debug\BussinessLayer.pdb
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\BussinessLayer\obj\Debug\BussinessLayer.dll
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\BussinessLayer\obj\Debug\BussinessLayer.pdb

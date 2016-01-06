@@ -1,0 +1,9 @@
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\DataLayerB\bin\Debug\DataLayerB.dll
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\DataLayerB\bin\Debug\DataLayerB.pdb
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\DataLayerB\obj\Debug\DataLayerB.dll
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\DataLayerB\obj\Debug\DataLayerB.pdb
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\DataLayerB\bin\Debug\DataLayerB.dll.config
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\DataLayerB\bin\Debug\EntityFramework.dll
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\DataLayerB\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\DataLayerB\bin\Debug\EntityFramework.xml
+D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\DataLayerB\bin\Debug\EntityFramework.SqlServer.xml
