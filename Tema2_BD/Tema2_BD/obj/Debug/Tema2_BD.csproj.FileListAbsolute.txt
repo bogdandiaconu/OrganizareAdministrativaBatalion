@@ -1,1 +1,2 @@
 D:\ProiectBD\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\Tema2_BD\bin\Debug\Tema2_BD.exe.config
+D:\Cursuri\Anul 3\Adm Baza Date\Tema2\GitHub\OrganizareAdministrativaBatalion\Tema2_BD\Tema2_BD\bin\Debug\Tema2_BD.exe.config
