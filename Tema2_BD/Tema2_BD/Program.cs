@@ -16,12 +16,12 @@ namespace Tema2_BD
             var db = new ProiectBDContext();
 
             var query = from b in db.Students
+                        orderby b.Nume
                         select b;
 
             foreach (var s in query)
             {
                 Console.WriteLine(s.Nume.ToString());
-                
             }
             
 
